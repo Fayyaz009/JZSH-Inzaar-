@@ -1,0 +1,16 @@
+[
+  {
+    "id": "book_1",
+    "title": "The Flutter Journey",
+    "author": "Ava Reed",
+    "coverPath": "",
+    "content": "Chapter 1\n\nFlutter empowers beautiful apps.\n\nChapter 2\n\nBloc keeps your state predictable.\n\nChapter 3\n\nPersistence brings delightful continuity.\n"
+  },
+  {
+    "id": "book_2",
+    "title": "Deep Focus Reading",
+    "author": "Noah Flynn",
+    "coverPath": "",
+    "content": "Preface\n\nGreat reading experiences respect the reader.\n\nPart I\n\nTypography matters.\n\nPart II\n\nThemes create atmosphere.\n"
+  }
+]
